@@ -79,10 +79,10 @@ ORDER BY booking_count DESC;
 
 8.Status log timeline for a specific booking
 
-SELECT log_id, booking_id, status, remarks, timestamp
+SELECT log_id, booking_id, status, remarks, changed_at 
 FROM BookingStatusLog
 WHERE booking_id = 3
-ORDER BY timestamp ASC;
+ORDER BY changed_at  ASC;
 
 
 
