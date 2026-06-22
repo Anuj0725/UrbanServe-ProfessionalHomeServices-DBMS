@@ -15,6 +15,7 @@ Repo: [UrbanServe-ProfessionalHomeServices-DBMS](https://github.com/Anuj0725/Urb
 - [REST API](docs/API.md)
 - [Query Index](#query-index)
 - [Sample Data](#sample-data)
+- [Relational Schema](docs/relational_schema.pdf)
 - [BCNF Proof](docs/bcnf_proof.md)
 - [ER Diagram](docs/ER_Diagram.pdf)
 
@@ -56,6 +57,7 @@ UrbanServe-ProfessionalHomeServices-DBMS/
 ├── data/Data.sql
 ├── queries/Queries.sql
 ├── docs/
+│   ├── relational_schema.pdf
 │   ├── bcnf_proof.md
 │   ├── ER_Diagram.pdf
 │   └── API.md
@@ -192,4 +194,6 @@ below, no controller.
 
 ## Normalization
 
-All 22 tables in BCNF — proof in [`docs/bcnf_proof.md`](docs/bcnf_proof.md).
+Relational schema (table-by-table attributes and FKs) in
+[`docs/relational_schema.pdf`](docs/relational_schema.pdf). All 22 tables in
+BCNF — proof in [`docs/bcnf_proof.md`](docs/bcnf_proof.md).
