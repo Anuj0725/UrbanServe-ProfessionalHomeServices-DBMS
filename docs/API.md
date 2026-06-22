@@ -207,8 +207,6 @@ All reviews for a provider, most recent first.
 
 ---
 
-## Not covered
-
 The remaining 17 tables (`Admin`, `City`, `Area`, `Address`, `Category`,
 `ServiceVariant`, `ProviderAvailability`, `ProviderDocument`, `Coupon`,
 `BookingItem`, `BookingStatusLog`, `Payment`, `Cancellation`,
