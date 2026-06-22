@@ -56,6 +56,7 @@ UrbanServe-ProfessionalHomeServices-DBMS/
 ├── data/Data.sql
 ├── queries/Queries.sql
 ├── docs/
+│   ├── relational_schema.md
 │   ├── bcnf_proof.md
 │   ├── ER_Diagram.pdf
 │   └── API.md
